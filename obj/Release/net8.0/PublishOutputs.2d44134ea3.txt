@@ -1,0 +1,13 @@
+D:\Courses\MS Azure Devops\sqlapp-docker\bin\Release\net8.0\publish\sqlapp.exe
+D:\Courses\MS Azure Devops\sqlapp-docker\bin\Release\net8.0\publish\appsettings.Development.json
+D:\Courses\MS Azure Devops\sqlapp-docker\bin\Release\net8.0\publish\appsettings.json
+D:\Courses\MS Azure Devops\sqlapp-docker\bin\Release\net8.0\publish\sqlapp.dll
+D:\Courses\MS Azure Devops\sqlapp-docker\bin\Release\net8.0\publish\sqlapp.deps.json
+D:\Courses\MS Azure Devops\sqlapp-docker\bin\Release\net8.0\publish\sqlapp.runtimeconfig.json
+D:\Courses\MS Azure Devops\sqlapp-docker\bin\Release\net8.0\publish\sqlapp.pdb
+D:\Courses\MS Azure Devops\sqlapp-docker\bin\Release\net8.0\publish\System.Data.SqlClient.dll
+D:\Courses\MS Azure Devops\sqlapp-docker\bin\Release\net8.0\publish\runtimes\win-arm64\native\sni.dll
+D:\Courses\MS Azure Devops\sqlapp-docker\bin\Release\net8.0\publish\runtimes\win-x64\native\sni.dll
+D:\Courses\MS Azure Devops\sqlapp-docker\bin\Release\net8.0\publish\runtimes\win-x86\native\sni.dll
+D:\Courses\MS Azure Devops\sqlapp-docker\bin\Release\net8.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Courses\MS Azure Devops\sqlapp-docker\bin\Release\net8.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
