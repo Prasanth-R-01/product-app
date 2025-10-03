@@ -55,7 +55,7 @@ stages:
       displayName: Build and push an image to container registry
       inputs:
         command: buildAndPush
-        buildContext: $(Build.ArtifactStagingDirectory)/sqlapp
+        buildContext: $(Build.ArtifactStagingDirectory)/s
         repository: $(imageRepository)
         dockerfile: $(dockerfilePath)
         containerRegistry: $(dockerRegistryServiceConnection)
