@@ -14,7 +14,7 @@ namespace sqlapp.Services
         }
         private SqlConnection GetConnection()
         {
-            string connectionString = "Server=tcp:sqlapp-01.database.windows.net,1433;Initial Catalog=sql-app-db;Persist Security Info=False;User ID=user1;Password=Admin@123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+            string connectionString = "Server=tcp:sql-app.database.windows.net,1433;Initial Catalog=sql-db;Persist Security Info=False;User ID=user1;Password=Admin@123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
             return new SqlConnection(connectionString);
         }
         public List<Product> GetProducts()
