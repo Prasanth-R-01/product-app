@@ -62,3 +62,9 @@ stages:
         tags: |
           $(tag)
           latest
+    
+    - task: PublishPipelineArtifact@1
+      inputs:
+        targetPath: '$(Pipeline.Workspace)'
+        artifact: 'sourcefile'
+        publishLocation: 'pipeline'
